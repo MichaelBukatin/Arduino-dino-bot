@@ -1,5 +1,9 @@
 Arduino Dino Bot 🦖
 
+## 🎥 Demo Video
+
+Watch the demo: [Click here to open the video](https://drive.google.com/file/d/1IVOrr5dH6lVmEnp-8mQBdFqJpjUfja2C/view?usp=sharing)
+
 This is a simple automation project using Arduino UNO, 
 a photoresistor, and a servo motor to automatically
 play the Google Chrome Dinosaur Game (T-Rex Runner 🦕).
